@@ -1,5 +1,7 @@
-# FIRST-FRC-10486
+# FIRST-FRC-10486-2025
 
-Source code for team 10486 in FIRST FRC
+Source code for `team 10486 - Weavers` in the 2025 season of FIRST FRC
 
-Plz leave a star ⭐ qwq
+[Link to Team](https://frc-events.firstinspires.org/team/10486)
+
+Plz consider leaving a star ⭐! qwq

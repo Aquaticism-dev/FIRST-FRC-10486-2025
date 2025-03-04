@@ -1,7 +1,7 @@
 package org.weavers.drive;
 
 /**
- * Stores kinematic information for all the wheels
+ * Stores kinematic information for all wheels
  *
  * @param ul Upper-left wheel.
  * @param ur Upper-right wheel.

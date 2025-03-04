@@ -52,7 +52,7 @@ public class DriveController {
     }
 
     /**
-     * Drives the robot to achieve a desired speed and rotation.
+     * Actually drives the robot to achieve a desired speed and rotation.
      *
      * @param spd Desired speed, positive is forwards.
      * @param rot Desired rotation, positive is clockwise.
